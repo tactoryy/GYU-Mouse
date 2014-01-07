@@ -35,6 +35,7 @@ This document is made by [gitfab](http://gitfab.org)
 •はんだごて
 •ガラス板
 •両面テープ
+•傘の骨のさきっぽ
 •マウス
 •好きなキャラのクリアファイルとか写真とか
 •はさみ
@@ -43,13 +44,19 @@ This document is made by [gitfab](http://gitfab.org)
 ---
 # 完成予想図
 
-あとで、写真はります。
+スケッチ
+![写真 2014-01-07 15 01 45.jpg](https://raw.github.com/tactoryy/NIGI-Mouse/master/gitfab/resources/写真-2014-01-07-15-01-45.jpg)
 ---
 #作り方(手編)
 
-手袋のなかに、綿とホッカイロをいれて、弾力をつける。
-手袋の手首の部分を内側におりこんで、落ちないようにする。
+手袋のなかに、綿をいれて、弾力をつける。
+手袋の手首の部分を内側におりこんで、両面テープで固定し落ちないようにする。
+サーボモータに付属の歯車とサーボモータの間に手袋をうめて、ドライバーでねじを固定。
 
+
+![手袋サーボモータ.jpg](https://raw.github.com/tactoryy/NIGI-Mouse/master/gitfab/resources/手袋サーボモータ.jpg)
+
+![prt_te.jpg](https://raw.github.com/tactoryy/NIGI-Mouse/master/gitfab/resources/prt_te.jpg)
 ---
 #作り方(マウス編)
 
