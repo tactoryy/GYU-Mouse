@@ -138,4 +138,10 @@ Arduinoとタッチセンサ、フルカラーLED、サーボモータを配線�
 •光の拡散のために、四隅の柱をもっと高くすれば、ぽぉっと光る。
 
 •マウス自体を、もっと小さくて、可愛いのにしたい。
+
+【CC】
+表示—非営利—継承
+であるので、ぜひ改善点を改善していってほしいと思う。
+
+![cc.png](https://raw.github.com/tactoryy/GYU-Mouse/master/gitfab/resources/cc.png)
 ---
