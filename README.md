@@ -109,9 +109,8 @@ Arduinoとタッチセンサ、フルカラーLED、サーボモータを配線�
 #完成
 
 完成！！！
-![完成図.jpg](https://raw.github.com/tactoryy/NIGI-Mouse/master/gitfab/resources/完成図.jpg)
 
-
+![complete.jpg](https://raw.github.com/tactoryy/GYU-Mouse/master/gitfab/resources/complete.jpg)
 ---
 #感想•今後広げられること
 
