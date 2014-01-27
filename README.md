@@ -6,13 +6,16 @@ This document is made by [gitfab](http://gitfab.org)
 マウスにふれると、手をぎゅッしてくれるマウス
 
 【コンセプト】
-2013年6月に4年と2ヶ月つきあってた彼女が家からでていってしまったぼくが、クリスマス寂しく仕事してすごさなくていいような、手をぎゅっとしてくれるマウス。
+2013年6月に4年と2ヶ月つきあってた彼女が家からでていってしまったぼくが、クリスマス寂しく仕事してすごさなくていいような、手をぎゅっとしてくれるマウス。このマウスを使うことで寂しさを紛らわすことが目的。
 
 【仕様】
 マウスに触れるとイルミネーションモード
 マウスを右クリックすると、手をギュッと。
 専用のマウスパッドをつくって、好きなキャラを着せ替え可能。
 
+【作成過程写真】
+gitfabのバグでuploadした写真がみれない現象が起きているので、以下からDLできます。uploadした作成過程の写真が入っています。
+web.sfc.keio.ac.jp/~t11989tw/ID_photo.zip
 
 ---
 #用意するもの
@@ -47,7 +50,7 @@ This document is made by [gitfab](http://gitfab.org)
 スケッチ
 ![写真 2014-01-07 15 01 45.jpg](https://raw.github.com/tactoryy/NIGI-Mouse/master/gitfab/resources/写真-2014-01-07-15-01-45.jpg)
 
-![写真 2014-01-07 15 01 45.jpg](https://raw.github.com/tactoryy/GYU-Mouse/master/gitfab/resources/写真-2014-01-07-15-01-45.jpg)
+
 ---
 #作り方(手編)
 
