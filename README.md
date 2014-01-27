@@ -46,6 +46,8 @@ This document is made by [gitfab](http://gitfab.org)
 
 スケッチ
 ![写真 2014-01-07 15 01 45.jpg](https://raw.github.com/tactoryy/NIGI-Mouse/master/gitfab/resources/写真-2014-01-07-15-01-45.jpg)
+
+![写真 2014-01-07 15 01 45.jpg](https://raw.github.com/tactoryy/GYU-Mouse/master/gitfab/resources/写真-2014-01-07-15-01-45.jpg)
 ---
 #作り方(手編)
 
